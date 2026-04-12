@@ -119,7 +119,7 @@ const PROJECTS = [
     type: "Projects",
     description: "Video installation created with Maurice Wald on predictive methodologies from divination to AI presented at <a href='https://ars.electronica.art/planetb/en/' target='_blank'>Ars Electronica</a>.",
     images: [
-      "assets/projects/closed-loop-scrying-mirror/01.png",
+      "",
     ],
   },
   {

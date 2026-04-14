@@ -65,7 +65,7 @@ const PROJECTS = [
     type: "Research",
     description: "Contributed to <a href='https://research.antikythera.org/#hemispherical-stacks' target='_blank'>Antikythera's</a> research on the geopolitical implications of computational technologies and scenario based foresight methodologies.",
     images: [
-      "assets/projects/hemispherical-stacks-research-network/01.png",
+      "assets/projects/hemispherical-stacks-research-network/02.jpg",
     ],
   },
   {
